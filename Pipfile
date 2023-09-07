@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pytest = "7.1.2"
+pytest = "*"
 ipdb = "0.13.9"
 
 [dev-packages]
